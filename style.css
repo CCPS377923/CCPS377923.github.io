@@ -1,8 +1,10 @@
 p {
   color: coral;
-    background-color: black
+    background-color: black;
+      Font-family: rockwell;
 }
 
 body {
   font-weight: bold;
+  font-weight: 16.5;
 }
